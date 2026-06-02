@@ -41,7 +41,7 @@ Install to HDD
     Reboot with HDD as primary boot device.
 
 
-Login as root then vi /etc/issue then i Then Change ELKS 0.7.0 To Slackware Linux then esc then :wq
+Login as root then vi /etc/issue then i Then Change ELKS 0.7.0 To Slackware 15.0 8086 then esc then :wq
 
 Preview
 

@@ -42,3 +42,7 @@ Install to HDD
 
 
 Login as root then vi /etc/issue then i Then Change ELKS 0.7.0 To Slackware Linux then esc then :wq
+
+Preview
+
+<img width="735" height="464" alt="Screenshot From 2026-06-02 11-55-39" src="https://github.com/user-attachments/assets/75432b00-0ef3-4ad6-8258-243a4f0fc343" />

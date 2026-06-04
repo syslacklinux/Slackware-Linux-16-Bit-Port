@@ -1,5 +1,4 @@
-<img width="279" height="80" alt="slackware_logo_med" src="https://github.com/user-attachments/assets/0d980716-7284-4dbf-87e6-db249469cb31" /> <img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/a6ba27e1-3990-4d54-b7a9-a0281bc1f458" />
-
+<img width="1920" height="1280" alt="Slackware 16 Bit Logo" src="https://github.com/user-attachments/assets/92b26044-1698-445c-baac-fd47a1023d0f" />
 
 # Slackware-Linux-16-Bit-Port
 This is a port of Slackware to 16 Bit
